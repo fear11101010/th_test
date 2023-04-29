@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3333/sbmt
+    password: Arafat11101010@#
+    username: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  security:
+
+
+
+server:
+  port: 8082
